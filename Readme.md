@@ -1,0 +1,1 @@
+# Haskell Class 2025
